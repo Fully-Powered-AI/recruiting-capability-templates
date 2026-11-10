@@ -1,0 +1,69 @@
+{
+  "id": "hiring-pipeline-status-report",
+  "name": "Hiring pipeline status report",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Each week your people lead or founder sees every open role on one page: applications at each stage, days open against the target, roles running late, pass-through between stages, which sources lead to interviews, and every blocker with its owner. It counts; it never assesses a candidate.",
+  "directory": "https://fullypowered.ai/capabilities/hiring-pipeline-status-report/",
+  "primary_function": "functions/recruiting-and-hiring",
+  "functions": [
+    "functions/recruiting-and-hiring",
+    "functions/people-and-hr",
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/hospitality",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "interview-plan-and-scorecard",
+    "job-description",
+    "employee-onboarding-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for a counts-only hiring report: fixed export columns with a stop on any mismatch, pass-through that leaves out people still waiting at a stage, a minimum before any rate is shown, personal details never read, blockers carried until marked settled, owners taken only from the inputs, and the tests and worked example."
+    },
+    {
+      "kind": "third-party",
+      "repository": "rade-nugroho/Agentic-Enteprises-Skill",
+      "commit": "526df1c1377ee392ce2448c370d597c42da75402",
+      "path": "talent-acquisition/references/ats_pipeline_and_hiring_manager_partnership.md",
+      "licence": "MIT",
+      "contribution": "A time limit for each pipeline stage; a role treated as ageing when it has been open for long with few people at the later stages; and a weekly review of counts by stage and of what is holding each role up, such as interviewer availability.",
+      "text_reused": false,
+      "notice": "notices/rade-nugroho-Agentic-Enteprises-Skill-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rade-nugroho/Agentic-Enteprises-Skill",
+      "commit": "526df1c1377ee392ce2448c370d597c42da75402",
+      "path": "talent-acquisition/references/ta_metrics_compliance_and_reporting.md",
+      "licence": "MIT",
+      "contribution": "Measuring pass-through at each step, from the people who reached a stage to those who went on from it; judging each source by the share of its applicants who reach an interview; leaving periods on hold out of the time a role has been open, where they are tracked (the customization option on days open); and a short periodic report that pairs its figures with actions.",
+      "text_reused": false,
+      "notice": "notices/rade-nugroho-Agentic-Enteprises-Skill-LICENSE.txt"
+    }
+  ]
+}
