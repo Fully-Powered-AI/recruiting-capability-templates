@@ -2,10 +2,11 @@
 
 Hire like a company ten times your size. These capability templates take the preparation around a hire and give an AI assistant a precise way to do it. They never score, rank or screen a candidate: people make every hiring decision.
 
-This repository holds the first capability template for hiring managers, recruiters and people teams, with more on the way. It is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 2 capability templates for hiring managers, recruiters and people teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The capabilities
 
+- **[Interview plan and scorecard](interview-plan-and-scorecard/)**: Before the first interview, the hiring manager and every interviewer share one plan: the criteria the role needs, the same questions in the same order for every candidate, and a blank scorecard each person fills in alone. It rates no one. People make every decision about a candidate.
 - **[Job description](job-description/)**: A hiring manager’s rough notes become a job description the right people want to answer: why the role exists, the work itself, and only the must-haves that are real. Your approved pay and employer wording go in untouched, and nothing is posted until the hiring manager and the people lead approve it.
 
 ## How to use one

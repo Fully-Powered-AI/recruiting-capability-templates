@@ -4,6 +4,14 @@
   "term": "functions/recruiting-and-hiring",
   "capabilities": [
     {
+      "id": "interview-plan-and-scorecard",
+      "name": "Interview plan and scorecard",
+      "version": "0.1.0",
+      "summary": "Before the first interview, the hiring manager and every interviewer share one plan: the criteria the role needs, the same questions in the same order for every candidate, and a blank scorecard each person fills in alone. It rates no one. People make every decision about a candidate.",
+      "path": "interview-plan-and-scorecard/",
+      "directory": "https://fullypowered.ai/capabilities/interview-plan-and-scorecard/"
+    },
+    {
       "id": "job-description",
       "name": "Job description",
       "version": "0.1.0",
