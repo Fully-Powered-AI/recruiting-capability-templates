@@ -4,12 +4,28 @@
   "term": "functions/recruiting-and-hiring",
   "capabilities": [
     {
+      "id": "candidate-outreach-drafting",
+      "name": "Candidate outreach drafting",
+      "version": "0.1.0",
+      "summary": "For each person a recruiter or founder has already chosen to approach about an approved role: a first message and two follow-ups, each personal line traced to a public work source the recruiter supplied, do-not-contact names and opt-outs honoured, and a reply log. The recruiter sends every message.",
+      "path": "candidate-outreach-drafting/",
+      "directory": "https://fullypowered.ai/capabilities/candidate-outreach-drafting/"
+    },
+    {
       "id": "interview-plan-and-scorecard",
       "name": "Interview plan and scorecard",
       "version": "0.1.0",
       "summary": "Before the first interview, the hiring manager and every interviewer share one plan: the criteria the role needs, the same questions in the same order for every candidate, and a blank scorecard each person fills in alone. It rates no one. People make every decision about a candidate.",
       "path": "interview-plan-and-scorecard/",
       "directory": "https://fullypowered.ai/capabilities/interview-plan-and-scorecard/"
+    },
+    {
+      "id": "interview-scheduling-and-candidate-confirmation",
+      "name": "Interview scheduling and candidate confirmation",
+      "version": "0.1.0",
+      "summary": "For candidates your team has already chosen to interview, the recruiting coordinator gets one scheduling sheet that lines up each candidate's offered times, in their own time zone, with the interviewers' free time, plus a ready confirmation or availability request for each. A person sends every message and invitation.",
+      "path": "interview-scheduling-and-candidate-confirmation/",
+      "directory": "https://fullypowered.ai/capabilities/interview-scheduling-and-candidate-confirmation/"
     },
     {
       "id": "job-description",

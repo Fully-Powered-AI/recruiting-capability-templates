@@ -1,0 +1,86 @@
+{
+  "id": "candidate-outreach-drafting",
+  "name": "Candidate outreach drafting",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For each person a recruiter or founder has already chosen to approach about an approved role: a first message and two follow-ups, each personal line traced to a public work source the recruiter supplied, do-not-contact names and opt-outs honoured, and a reply log. The recruiter sends every message.",
+  "directory": "https://fullypowered.ai/capabilities/candidate-outreach-drafting/",
+  "primary_function": "functions/recruiting-and-hiring",
+  "functions": [
+    "functions/recruiting-and-hiring"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "job-posting-and-sourcing-plan",
+    "job-description",
+    "interview-plan-and-scorecard"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The rule that every personal line traces to a public work source the recruiter supplied, within a freshness limit; the list of characteristics never mentioned or inferred; the do-not-contact check with possible matches; pay and terms only as the brief allows; the reply log's events, statuses and next actions; the dating rules and word limits; the output format, stop conditions, tests and the worked example."
+    },
+    {
+      "kind": "third-party",
+      "repository": "rade-nugroho/Agentic-Enteprises-Skill",
+      "commit": "526df1c1377ee392ce2448c370d597c42da75402",
+      "path": "talent-sourcer/references/outreach_and_engagement_sequences.md",
+      "licence": "MIT",
+      "contribution": "Opening on one detail from the person's public work; short, truthful messages with a small ask; a few messages spaced in working days, each adding something new; a message naming the referrer; returning months later when the timing was wrong; and the opt-out line, keeping to unsubscribes and the do-not-contact list, no return after a no, and personal matters kept out.",
+      "text_reused": false,
+      "notice": "notices/rade-nugroho-Agentic-Enteprises-Skill-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rade-nugroho/Agentic-Enteprises-Skill",
+      "commit": "526df1c1377ee392ce2448c370d597c42da75402",
+      "path": "talent-sourcer/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Its outreach and engagement workflow: personalize the first message from public signals such as talks, code and posts, with no inference about the person, and stop the follow-ups on an opt-out.",
+      "text_reused": false,
+      "notice": "notices/rade-nugroho-Agentic-Enteprises-Skill-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rade-nugroho/Agentic-Enteprises-Skill",
+      "commit": "526df1c1377ee392ce2448c370d597c42da75402",
+      "path": "talent-sourcer/references/talent_sourcer_scope.md",
+      "licence": "MIT",
+      "contribution": "Its ethics notes: avoid search filters that stand in for age, gender or ethnicity, honour prior contact and the do-not-contact list, and stop outreach at once on an unsubscribe or an explicit decline.",
+      "text_reused": false,
+      "notice": "notices/rade-nugroho-Agentic-Enteprises-Skill-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rade-nugroho/Agentic-Enteprises-Skill",
+      "commit": "526df1c1377ee392ce2448c370d597c42da75402",
+      "path": "talent-sourcer/references/pipeline_handoff_and_sourcing_metrics.md",
+      "licence": "MIT",
+      "contribution": "Following each person from first contact through a reply to a later revisit or a close, the root of the reply log's statuses.",
+      "text_reused": false,
+      "notice": "notices/rade-nugroho-Agentic-Enteprises-Skill-LICENSE.txt"
+    }
+  ]
+}

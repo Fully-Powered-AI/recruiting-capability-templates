@@ -1,0 +1,77 @@
+{
+  "id": "interview-scheduling-and-candidate-confirmation",
+  "name": "Interview scheduling and candidate confirmation",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For candidates your team has already chosen to interview, the recruiting coordinator gets one scheduling sheet that lines up each candidate's offered times, in their own time zone, with the interviewers' free time, plus a ready confirmation or availability request for each. A person sends every message and invitation.",
+  "directory": "https://fullypowered.ai/capabilities/interview-scheduling-and-candidate-confirmation/",
+  "primary_function": "functions/recruiting-and-hiring",
+  "functions": [
+    "functions/recruiting-and-hiring",
+    "functions/executive-and-office-support"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "interview-plan-and-scorecard",
+    "job-posting-and-sourcing-plan",
+    "employee-onboarding-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The scheduling sheet: windows turned into one planning time zone day by day, matched against the time every required interviewer is free, start-time steps and buffers, an order that turns only on how many times each candidate offered, alternatives not held, no time offered twice, each interviewer's load, the rules for reading loose replies, reasons for times never repeated, unread columns listed, the written drafts, the review notes, the stop conditions, the tests and the worked example."
+    },
+    {
+      "kind": "third-party",
+      "repository": "CALLE-AI/awesome-phone-call-agents",
+      "commit": "14ab8d21081ead9063a6af5f86804bc9cdafb626",
+      "path": "skills/candidate-availability-call/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Contact with a candidate kept to timing alone, with no interviewing, assessing, pay or promises; offering only times the company can really meet; settling the candidate's time zone and limits on their days; no time taken as suitable without the candidate's word, and unclear answers passed to a person; the final time, the invitation and any record change left to a person.",
+      "text_reused": false,
+      "notice": "notices/CALLE-AI-awesome-phone-call-agents-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "CALLE-AI/awesome-phone-call-agents",
+      "commit": "14ab8d21081ead9063a6af5f86804bc9cdafb626",
+      "path": "skills/candidate-availability-call/references/safety.md",
+      "licence": "MIT",
+      "contribution": "The subjects never raised with a candidate, which the template spells out in full; never presenting a time as fixed before a person has sent the invitation; no pressing a candidate and no repeat contact unless a person decides; keeping only what scheduling needs.",
+      "text_reused": false,
+      "notice": "notices/CALLE-AI-awesome-phone-call-agents-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "CALLE-AI/awesome-phone-call-agents",
+      "commit": "14ab8d21081ead9063a6af5f86804bc9cdafb626",
+      "path": "skills/candidate-availability-call/scripts/validate-candidate-input.mjs",
+      "licence": "MIT",
+      "contribution": "Checking that the inputs are complete, and that the request's own wording is free of sensitive subjects, before anything is prepared: the root of the template's stop on missing settings or headers and its check of the settings and notes against the protected subjects.",
+      "text_reused": false,
+      "notice": "notices/CALLE-AI-awesome-phone-call-agents-LICENSE.txt"
+    }
+  ]
+}
