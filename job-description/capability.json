@@ -1,0 +1,66 @@
+{
+  "id": "job-description",
+  "name": "Job description",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A hiring manager’s rough notes become a job description the right people want to answer: why the role exists, the work itself, and only the must-haves that are real. Your approved pay and employer wording go in untouched, and nothing is posted until the hiring manager and the people lead approve it.",
+  "directory": "https://fullypowered.ai/capabilities/job-description/",
+  "primary_function": "functions/recruiting-and-hiring",
+  "functions": [
+    "functions/recruiting-and-hiring",
+    "functions/people-and-hr"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/manufacturing",
+    "industries/hospitality"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "employee-onboarding-plan",
+    "manager-feedback-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The copy-never-write rule for pay and employer wording, the review notes, the handling of figures and gaps, the stop conditions, the tests and the worked example."
+    },
+    {
+      "kind": "third-party",
+      "repository": "panaversity/agentfactory-business-plugins",
+      "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
+      "path": "hr-operations/skills/jd",
+      "licence": "Apache-2.0",
+      "contribution": "The method of writing to the reader and putting the work ahead of the requirements; the layout of the description's header line (title and team, then company, location and pay) and of its closing sections (what is offered, then how to apply followed by the equal-opportunity statement and the adjustments wording); the three-part requirements layout of must-haves, helpful items that are not required and one or two ways of working; testing each requirement for whether the work depends on it and holding the must-haves to about five; turning years of experience into the ability they stand for; never writing \"competitive\" in place of a pay range; always carrying the equal-opportunity statement and the adjustments wording; and checking the wording for labels and coded phrases, including the examples \"rockstar\", \"ninja\", \"guru\", \"culture fit\" and the age-coded \"digital native\" and \"recent graduate\".",
+      "text_reused": false,
+      "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "LeadMagic/gtm-skills",
+      "commit": "2b7ec0f9e7044f46e4c77b536f486303fd863e28",
+      "path": "skills/founder-led/gtm-role-descriptions",
+      "licence": "MIT",
+      "contribution": "The section order of the description: why the role exists, what the person will own, what success looks like, who the person is, where the role sits, what is offered and how to apply. Also the method of opening on the specific business reason the role exists now and not on general growth, stating what success looks like at 90 days and at twelve months, and showing where the role sits: who it reports to, who it works with and the size of the team today.",
+      "text_reused": false,
+      "notice": "notices/LeadMagic-gtm-skills-LICENSE.txt"
+    }
+  ]
+}
