@@ -2,12 +2,13 @@
 
 Hire like a company ten times your size. These capability templates take the preparation around a hire and give an AI assistant a precise way to do it. They never score, rank or screen a candidate: people make every hiring decision.
 
-This repository holds 2 capability templates for hiring managers, recruiters and people teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 3 capability templates for hiring managers, recruiters and people teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The capabilities
 
 - **[Interview plan and scorecard](interview-plan-and-scorecard/)**: Before the first interview, the hiring manager and every interviewer share one plan: the criteria the role needs, the same questions in the same order for every candidate, and a blank scorecard each person fills in alone. It rates no one. People make every decision about a candidate.
 - **[Job description](job-description/)**: A hiring manager’s rough notes become a job description the right people want to answer: why the role exists, the work itself, and only the must-haves that are real. Your approved pay and employer wording go in untouched, and nothing is posted until the hiring manager and the people lead approve it.
+- **[Job posting and sourcing plan](job-posting-and-sourcing-plan/)**: For one approved role, the hiring manager gets a plan for where to post and where to look: every channel on the company's own list ordered by the signal it should give for that kind of role, a week-by-week schedule inside the budget, and what to count on each channel. Nothing is posted or paid until a person approves.
 
 ## How to use one
 

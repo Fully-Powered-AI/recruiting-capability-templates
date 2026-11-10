@@ -1,0 +1,57 @@
+{
+  "id": "job-posting-and-sourcing-plan",
+  "name": "Job posting and sourcing plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For one approved role, the hiring manager gets a plan for where to post and where to look: every channel on the company's own list ordered by the signal it should give for that kind of role, a week-by-week schedule inside the budget, and what to count on each channel. Nothing is posted or paid until a person approves.",
+  "directory": "https://fullypowered.ai/capabilities/job-posting-and-sourcing-plan/",
+  "primary_function": "functions/recruiting-and-hiring",
+  "functions": [
+    "functions/recruiting-and-hiring"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/manufacturing",
+    "industries/hospitality"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "job-description",
+    "interview-plan-and-scorecard",
+    "employee-onboarding-plan"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The channel types, the starting table by role family, the rule that the company's own counts replace it, the choosing rules for budget, hours and a weekly cap, the weekly schedule, the measurement and review rules, the check that at least one channel is open to anyone, the stop conditions, the tests and the worked example."
+    },
+    {
+      "kind": "third-party",
+      "repository": "LeadMagic/gtm-skills",
+      "commit": "2b7ec0f9e7044f46e4c77b536f486303fd863e28",
+      "path": "skills/founder-led/job-posting-strategy/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Choosing channels by the kind of role and ordering them by useful response for their cost; a few well-chosen channels in place of every board; looking for people through networks, investors and communities as well as by posting; counting applicant quality by channel to adjust the mix; and posting to diversity-focused channels, the root of the template's check for channels that reach groups the company wants more applicants from.",
+      "text_reused": false,
+      "notice": "notices/LeadMagic-gtm-skills-LICENSE.txt"
+    }
+  ]
+}
