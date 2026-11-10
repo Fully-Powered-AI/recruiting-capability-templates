@@ -241,8 +241,6 @@ For the people lead:
    in the hiring manager's notes. Neither is in the draft.
 3. Does any law or customer's rule require a forklift license for this
    role? The notes do not say so.
-4. Please confirm the benefits list and the equal-opportunity statement
-   are the current approved versions.
 
 Sources
 - Why this role exists, The work, What success looks like, What you need,
@@ -254,11 +252,10 @@ Sources
 - Company paragraph, benefits, how to apply, equal-opportunity statement:
   approved employer wording, copied exactly.
 
-Not in this draft: any pay figure beyond the approved range; any wording
-on adjustments (a gap for the people lead); the size of the Operations
-team (a gap for the operations manager); the name of a past employee;
-anything about how applicants will be assessed. Nothing has been posted
-or sent.
+Not in this draft: any wording on adjustments (a gap for the people
+lead); the size of the Operations team (a gap for the operations
+manager); the name of a past employee (left out). Nothing was declined.
+Nothing has been posted or sent.
 ```
 
 The operations manager answers the questions, the people lead supplies the missing wording, and both approve before a person posts the description. The review notes come off first.
