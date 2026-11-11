@@ -1,0 +1,45 @@
+{
+  "id": "interview-process-review-after-a-hiring-round",
+  "name": "Interview process review after a hiring round",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "After a hiring round closes, the recruiting lead gets a review of the interview process: questions that gave no usable evidence, competencies nobody covered, inconsistent rubric use, and revisions to approve before the next search. It reviews the process only; no candidate is assessed.",
+  "directory": "https://fullypowered.ai/capabilities/interview-process-review-after-a-hiring-round/",
+  "primary_function": "functions/recruiting-and-hiring",
+  "functions": [
+    "functions/recruiting-and-hiring",
+    "functions/people-and-hr"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/hospitality"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "interview-plan-and-scorecard",
+    "hiring-pipeline-status-report"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of recruiting work, and its own method for reviewing an interview process after a round: fixed input columns, rules for judging a note usable, coverage and rubric-use checks, stop conditions, tests and a worked example."
+    }
+  ]
+}

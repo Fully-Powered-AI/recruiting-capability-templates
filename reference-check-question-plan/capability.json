@@ -1,0 +1,46 @@
+{
+  "id": "reference-check-question-plan",
+  "name": "Reference check question plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "After the interviews, the recruiter gets short reference calls aimed only at what the panel still could not establish, put to the referees the candidate named and agreed to, with a note sheet for each call that keeps the referee's own words. It gives no view on the candidate.",
+  "directory": "https://fullypowered.ai/capabilities/reference-check-question-plan/",
+  "primary_function": "functions/recruiting-and-hiring",
+  "functions": [
+    "functions/recruiting-and-hiring"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/engineering-firms",
+    "industries/hospitality"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "interview-plan-and-scorecard",
+    "hiring-pipeline-status-report",
+    "interview-scheduling-and-candidate-confirmation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of recruiting work: the reference stage as one piece of work, started by a recruiter authorised to take references and ending with the hiring manager evaluating the answers. The method, defaults, rules, tests and worked example were written for this template."
+    }
+  ]
+}

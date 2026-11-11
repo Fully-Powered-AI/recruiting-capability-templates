@@ -28,6 +28,14 @@
       "directory": "https://fullypowered.ai/capabilities/interview-plan-and-scorecard/"
     },
     {
+      "id": "interview-process-review-after-a-hiring-round",
+      "name": "Interview process review after a hiring round",
+      "version": "0.1.0",
+      "summary": "After a hiring round closes, the recruiting lead gets a review of the interview process: questions that gave no usable evidence, competencies nobody covered, inconsistent rubric use, and revisions to approve before the next search. It reviews the process only; no candidate is assessed.",
+      "path": "interview-process-review-after-a-hiring-round/",
+      "directory": "https://fullypowered.ai/capabilities/interview-process-review-after-a-hiring-round/"
+    },
+    {
       "id": "interview-scheduling-and-candidate-confirmation",
       "name": "Interview scheduling and candidate confirmation",
       "version": "0.1.0",
@@ -50,6 +58,22 @@
       "summary": "For one approved role, the hiring manager gets a plan for where to post and where to look: every channel on the company's own list ordered by the signal it should give for that kind of role, a week-by-week schedule inside the budget, and what to count on each channel. Nothing is posted or paid until a person approves.",
       "path": "job-posting-and-sourcing-plan/",
       "directory": "https://fullypowered.ai/capabilities/job-posting-and-sourcing-plan/"
+    },
+    {
+      "id": "reference-check-question-plan",
+      "name": "Reference check question plan",
+      "version": "0.1.0",
+      "summary": "After the interviews, the recruiter gets short reference calls aimed only at what the panel still could not establish, put to the referees the candidate named and agreed to, with a note sheet for each call that keeps the referee's own words. It gives no view on the candidate.",
+      "path": "reference-check-question-plan/",
+      "directory": "https://fullypowered.ai/capabilities/reference-check-question-plan/"
+    },
+    {
+      "id": "work-sample-exercise-brief",
+      "name": "Work sample exercise brief",
+      "version": "0.1.0",
+      "summary": "For one approved role, the hiring manager gets a practical exercise: a bounded task from the role's real work, instructions for the candidate with a time limit and adjustments, and the evidence the panel will look for. The panel judges the work; nothing is rated here.",
+      "path": "work-sample-exercise-brief/",
+      "directory": "https://fullypowered.ai/capabilities/work-sample-exercise-brief/"
     }
   ]
 }
