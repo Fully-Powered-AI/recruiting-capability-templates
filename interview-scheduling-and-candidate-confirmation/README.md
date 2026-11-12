@@ -2,7 +2,7 @@
 
 For candidates your team has already chosen to interview, the recruiting coordinator gets one scheduling sheet that lines up each candidate's offered times, in their own time zone, with the interviewers' free time, plus a ready confirmation or availability request for each. A person sends every message and invitation.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/interview-scheduling-and-candidate-confirmation/)*
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-scheduling-and-candidate-confirmation/)*
 
 ## The outcome
 
@@ -81,7 +81,7 @@ Testing in your environment means running it on a stage you have already schedul
 
 - [Interview plan and scorecard](../interview-plan-and-scorecard/)
 - [Job posting and sourcing plan](../job-posting-and-sourcing-plan/)
-- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
 
 ## Make it yours
 

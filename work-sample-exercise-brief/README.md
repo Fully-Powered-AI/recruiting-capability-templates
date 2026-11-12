@@ -2,7 +2,7 @@
 
 For one approved role, the hiring manager gets a practical exercise: a bounded task from the role's real work, instructions for the candidate with a time limit and adjustments, and the evidence the panel will look for. The panel judges the work; nothing is rated here.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/work-sample-exercise-brief/)*
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/work-sample-exercise-brief/)*
 
 ## The outcome
 

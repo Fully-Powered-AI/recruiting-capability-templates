@@ -2,7 +2,7 @@
 
 After the interviews, the recruiter gets short reference calls aimed only at what the panel still could not establish, put to the referees the candidate named and agreed to, with a note sheet for each call that keeps the referee's own words. It gives no view on the candidate.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/reference-check-question-plan/)*
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reference-check-question-plan/)*
 
 ## The outcome
 

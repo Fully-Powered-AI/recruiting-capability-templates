@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before the first interview, the hiring manager and every interviewer share one plan: the criteria the role needs, the same questions in the same order for every candidate, and a blank scorecard each person fills in alone. It rates no one. People make every decision about a candidate.",
-  "directory": "https://fullypowered.ai/workflow templates/interview-plan-and-scorecard/",
+  "directory": "https://fullypowered.ai/workflows/interview-plan-and-scorecard/",
   "primary_function": "functions/recruiting-and-hiring",
   "functions": [
     "functions/recruiting-and-hiring"

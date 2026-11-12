@@ -2,7 +2,7 @@
 
 For each person a recruiter or founder has already chosen to approach about an approved role: a first message and two follow-ups, each personal line traced to a public work source the recruiter supplied, do-not-contact names and opt-outs honoured, and a reply log. The recruiter sends every message.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/candidate-outreach-drafting/)*
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/candidate-outreach-drafting/)*
 
 ## The outcome
 

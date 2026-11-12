@@ -9,7 +9,7 @@
       "version": "0.1.0",
       "summary": "For each person a recruiter or founder has already chosen to approach about an approved role: a first message and two follow-ups, each personal line traced to a public work source the recruiter supplied, do-not-contact names and opt-outs honoured, and a reply log. The recruiter sends every message.",
       "path": "candidate-outreach-drafting/",
-      "directory": "https://fullypowered.ai/workflow templates/candidate-outreach-drafting/"
+      "directory": "https://fullypowered.ai/workflows/candidate-outreach-drafting/"
     },
     {
       "id": "hiring-pipeline-status-report",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "Each week your people lead or founder sees every open role on one page: applications at each stage, days open against the target, roles running late, pass-through between stages, which sources lead to interviews, and every blocker with its owner. It counts; it never assesses a candidate.",
       "path": "hiring-pipeline-status-report/",
-      "directory": "https://fullypowered.ai/workflow templates/hiring-pipeline-status-report/"
+      "directory": "https://fullypowered.ai/workflows/hiring-pipeline-status-report/"
     },
     {
       "id": "interview-plan-and-scorecard",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "Before the first interview, the hiring manager and every interviewer share one plan: the criteria the role needs, the same questions in the same order for every candidate, and a blank scorecard each person fills in alone. It rates no one. People make every decision about a candidate.",
       "path": "interview-plan-and-scorecard/",
-      "directory": "https://fullypowered.ai/workflow templates/interview-plan-and-scorecard/"
+      "directory": "https://fullypowered.ai/workflows/interview-plan-and-scorecard/"
     },
     {
       "id": "interview-process-review-after-a-hiring-round",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "After a hiring round closes, the recruiting lead gets a review of the interview process: questions that gave no usable evidence, competencies nobody covered, inconsistent rubric use, and revisions to approve before the next search. It reviews the process only; no candidate is assessed.",
       "path": "interview-process-review-after-a-hiring-round/",
-      "directory": "https://fullypowered.ai/workflow templates/interview-process-review-after-a-hiring-round/"
+      "directory": "https://fullypowered.ai/workflows/interview-process-review-after-a-hiring-round/"
     },
     {
       "id": "interview-scheduling-and-candidate-confirmation",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "For candidates your team has already chosen to interview, the recruiting coordinator gets one scheduling sheet that lines up each candidate's offered times, in their own time zone, with the interviewers' free time, plus a ready confirmation or availability request for each. A person sends every message and invitation.",
       "path": "interview-scheduling-and-candidate-confirmation/",
-      "directory": "https://fullypowered.ai/workflow templates/interview-scheduling-and-candidate-confirmation/"
+      "directory": "https://fullypowered.ai/workflows/interview-scheduling-and-candidate-confirmation/"
     },
     {
       "id": "job-description",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "A hiring manager’s rough notes become a job description the right people want to answer: why the role exists, the work itself, and only the must-haves that are real. Your approved pay and employer wording go in untouched, and nothing is posted until the hiring manager and the people lead approve it.",
       "path": "job-description/",
-      "directory": "https://fullypowered.ai/workflow templates/job-description/"
+      "directory": "https://fullypowered.ai/workflows/job-description/"
     },
     {
       "id": "job-posting-and-sourcing-plan",
@@ -57,7 +57,7 @@
       "version": "0.1.0",
       "summary": "For one approved role, the hiring manager gets a plan for where to post and where to look: every channel on the company's own list ordered by the signal it should give for that kind of role, a week-by-week schedule inside the budget, and what to count on each channel. Nothing is posted or paid until a person approves.",
       "path": "job-posting-and-sourcing-plan/",
-      "directory": "https://fullypowered.ai/workflow templates/job-posting-and-sourcing-plan/"
+      "directory": "https://fullypowered.ai/workflows/job-posting-and-sourcing-plan/"
     },
     {
       "id": "reference-check-question-plan",
@@ -65,7 +65,7 @@
       "version": "0.1.0",
       "summary": "After the interviews, the recruiter gets short reference calls aimed only at what the panel still could not establish, put to the referees the candidate named and agreed to, with a note sheet for each call that keeps the referee's own words. It gives no view on the candidate.",
       "path": "reference-check-question-plan/",
-      "directory": "https://fullypowered.ai/workflow templates/reference-check-question-plan/"
+      "directory": "https://fullypowered.ai/workflows/reference-check-question-plan/"
     },
     {
       "id": "work-sample-exercise-brief",
@@ -73,7 +73,7 @@
       "version": "0.1.0",
       "summary": "For one approved role, the hiring manager gets a practical exercise: a bounded task from the role's real work, instructions for the candidate with a time limit and adjustments, and the evidence the panel will look for. The panel judges the work; nothing is rated here.",
       "path": "work-sample-exercise-brief/",
-      "directory": "https://fullypowered.ai/workflow templates/work-sample-exercise-brief/"
+      "directory": "https://fullypowered.ai/workflows/work-sample-exercise-brief/"
     }
   ]
 }

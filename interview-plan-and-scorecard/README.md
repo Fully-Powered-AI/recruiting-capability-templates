@@ -2,7 +2,7 @@
 
 Before the first interview, the hiring manager and every interviewer share one plan: the criteria the role needs, the same questions in the same order for every candidate, and a blank scorecard each person fills in alone. It rates no one. People make every decision about a candidate.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/interview-plan-and-scorecard/)*
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-plan-and-scorecard/)*
 
 ## The outcome
 
@@ -79,8 +79,8 @@ Testing in your environment means running it on roles you have already filled, w
 ## Related workflow templates
 
 - [Job description](../job-description/)
-- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 

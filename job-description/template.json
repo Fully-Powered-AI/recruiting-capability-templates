@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A hiring manager’s rough notes become a job description the right people want to answer: why the role exists, the work itself, and only the must-haves that are real. Your approved pay and employer wording go in untouched, and nothing is posted until the hiring manager and the people lead approve it.",
-  "directory": "https://fullypowered.ai/workflow templates/job-description/",
+  "directory": "https://fullypowered.ai/workflows/job-description/",
   "primary_function": "functions/recruiting-and-hiring",
   "functions": [
     "functions/recruiting-and-hiring",

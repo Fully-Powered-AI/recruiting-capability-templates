@@ -2,7 +2,7 @@
 
 Each week your people lead or founder sees every open role on one page: applications at each stage, days open against the target, roles running late, pass-through between stages, which sources lead to interviews, and every blocker with its owner. It counts; it never assesses a candidate.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/hiring-pipeline-status-report/)*
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/hiring-pipeline-status-report/)*
 
 ## The outcome
 
@@ -87,7 +87,7 @@ Testing in your environment means running it on past weeks whose figures your pe
 
 - [Interview plan and scorecard](../interview-plan-and-scorecard/)
 - [Job description](../job-description/)
-- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 For one approved role, the hiring manager gets a plan for where to post and where to look: every channel on the company's own list ordered by the signal it should give for that kind of role, a week-by-week schedule inside the budget, and what to count on each channel. Nothing is posted or paid until a person approves.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/job-posting-and-sourcing-plan/)*
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-posting-and-sourcing-plan/)*
 
 ## The outcome
 
@@ -78,7 +78,7 @@ Testing in your environment means running it on two or three past searches you c
 
 - [Job description](../job-description/)
 - [Interview plan and scorecard](../interview-plan-and-scorecard/)
-- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
 
 ## Make it yours
 

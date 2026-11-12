@@ -2,7 +2,7 @@
 
 A hiring manager’s rough notes become a job description the right people want to answer: why the role exists, the work itself, and only the must-haves that are real. Your approved pay and employer wording go in untouched, and nothing is posted until the hiring manager and the people lead approve it.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/job-description/)*
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-description/)*
 
 ## The outcome
 
@@ -77,8 +77,8 @@ Testing in your environment means running it on roles you have already filled, w
 
 ## Related workflow templates
 
-- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
-- [Manager feedback preparation](https://fullypowered.ai/workflow templates/manager-feedback-preparation/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
+- [Manager feedback preparation](https://fullypowered.ai/workflows/manager-feedback-preparation/)
 
 ## Make it yours
 

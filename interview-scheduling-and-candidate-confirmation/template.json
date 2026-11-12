@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "For candidates your team has already chosen to interview, the recruiting coordinator gets one scheduling sheet that lines up each candidate's offered times, in their own time zone, with the interviewers' free time, plus a ready confirmation or availability request for each. A person sends every message and invitation.",
-  "directory": "https://fullypowered.ai/workflow templates/interview-scheduling-and-candidate-confirmation/",
+  "directory": "https://fullypowered.ai/workflows/interview-scheduling-and-candidate-confirmation/",
   "primary_function": "functions/recruiting-and-hiring",
   "functions": [
     "functions/recruiting-and-hiring",

@@ -2,7 +2,7 @@
 
 After a hiring round closes, the recruiting lead gets a review of the interview process: questions that gave no usable evidence, competencies nobody covered, inconsistent rubric use, and revisions to approve before the next search. It reviews the process only; no candidate is assessed.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/interview-process-review-after-a-hiring-round/)*
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-process-review-after-a-hiring-round/)*
 
 ## The outcome
 
