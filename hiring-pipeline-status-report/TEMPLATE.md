@@ -1,6 +1,6 @@
 # Hiring pipeline status report
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it once a week, on the same day, from that day's export, and before a leader
 
 Do not use it:
 
-- to read, summarise or compare CVs, applications, interview notes or completed scorecards. The Interview plan and scorecard capability prepares the structure interviewers use; people judge the evidence;
+- to read, summarise or compare CVs, applications, interview notes or completed scorecards. The Interview plan and scorecard workflow template prepares the structure interviewers use; people judge the evidence;
 - to say which candidate is strongest, who should move forward or who should get an offer. Hiring managers decide;
 - to report on age, gender, ethnicity, disability or any other personal characteristic, or to analyse whether a process treats groups differently. That work belongs to the people lead and the company's advisers;
 - to draft an offer, discuss pay for a person, or write any employment document;

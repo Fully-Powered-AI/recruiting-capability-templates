@@ -2,7 +2,7 @@
 
 *Illustrative example with invented data.* The company, its roles, its channels, its costs, its counts and every word of its notes below are invented. Trade Board A, General Board B, College C, Trade association D, Agency E and Profile search service F stand for channels a company might use; none is a real organisation. The company is an invented 40-person bench joinery workshop that makes fitted furniture. Its operations manager has approval to hire a workshop team lead and wants applicants in front of them before the holidays.
 
-The inputs come first, in full, so the template can be run on them. The plan the capability returned follows.
+The inputs come first, in full, so the template can be run on them. The plan the workflow template returned follows.
 
 ## The inputs
 

@@ -1,6 +1,6 @@
 # Work sample exercise brief
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -23,7 +23,7 @@ Do not use it to plan the interviews (use Interview plan and scorecard), to writ
 ## Inputs
 
 1. **The approved role description or brief.** The work, the outcomes and the working arrangements. If missing, stop.
-2. **The approved criteria,** numbered, each with what clear evidence looks like, marked as approved by the hiring manager. If missing or not approved, stop and name the capability that produces them.
+2. **The approved criteria,** numbered, each with what clear evidence looks like, marked as approved by the hiring manager. If missing or not approved, stop and name the workflow template that produces them.
 3. **The task list,** one line per real task, with the default headers **Task, How often, Typical minutes, Data used**. If a header is missing or does not match, stop and ask which column is which. Never guess a column. If no task list is supplied, stop.
 4. **The settings:** the longest time a candidate may spend (default [your time limit], 60 minutes); where and when the exercise is done, how it is returned and to which address (default: at home, returned within [your return window], 3 working days; if no return address is given, the contact address is used and the review notes say so under Changes); the pre-approved adjustments; the payment rule (default: an exercise longer than [your paid-exercise threshold], 60 minutes, is paid); whether submissions are reviewed with names removed (default yes); how long submissions are kept ([your retention period]); the panel; the decider; the people lead; who the candidate may contact. Anything missing stays a marked gap with a question.
 5. **The standing wording:** the sentence every candidate is asked about adjustments, and what candidates are told about next steps. If missing, leave a marked gap; never write it.
@@ -151,7 +151,7 @@ Proposed tests. None has been run.
 
 1. **Normal run.** Approved criteria, a task list with the default headers, standard settings. Expected: one task chosen with reasons, all nine sections filled, time split adding up.
 2. **Header mismatch.** The task list has "Minutes" where "Typical minutes" is expected. Expected: stops and asks which column is which.
-3. **Unapproved criteria.** Expected: stops and names the capability that produces them.
+3. **Unapproved criteria.** Expected: stops and names the workflow template that produces them.
 4. **Live project.** The notes ask to use a current client's project. Expected: declined, same kind of task offered on invented material.
 5. **Too long.** The notes ask for a two-hour exercise with a 60-minute limit. Expected: limit kept, open question, payment needing a person's approval.
 6. **Extra time.** A 60-minute allowance with a 50 percent extra-time arrangement. Expected: 90 minutes, with 15, 60 and 15 as the split.

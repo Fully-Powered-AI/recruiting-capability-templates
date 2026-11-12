@@ -1,6 +1,6 @@
 # Interview scheduling and candidate confirmation
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,9 +12,9 @@ Use it when a stage has candidates waiting for a time: after the people deciding
 
 Do not use it:
 
-- to decide who is interviewed, who goes forward or who is hired. People make those calls before this capability is run; it schedules the candidates it is given;
+- to decide who is interviewed, who goes forward or who is hired. People make those calls before this workflow template is run; it schedules the candidates it is given;
 - to read CVs, applications, scores or interview notes. The sheet needs times, time zones and contact details, nothing else;
-- to write the interview questions or the scorecard. The Interview plan and scorecard capability prepares those;
+- to write the interview questions or the scorecard. The Interview plan and scorecard workflow template prepares those;
 - to write a job posting, an offer or any employment document;
 - to book rooms, hold calendar slots, create invitations or update an applicant tracking system. A person does each of these after reading the sheet.
 
@@ -23,7 +23,7 @@ Do not use it:
 - **Runs it, supplies the exports and replies, checks every time, holds the slots, creates the invitations and sends every message:** the recruiting coordinator, or the hiring manager doing their own scheduling.
 - **Supplies the free time:** each interviewer, through their calendar or a list the coordinator exports.
 - **Receives every flag about a protected subject:** the people lead the settings name (an HR lead, or the office manager where there is no people team).
-- **Decides who is interviewed and who goes forward:** the hiring manager and the people the company names. Always people, and never through this capability.
+- **Decides who is interviewed and who goes forward:** the hiring manager and the people the company names. Always people, and never through this workflow template.
 
 ## Inputs
 
@@ -67,7 +67,7 @@ The assistant works from what the person pastes or uploads. It needs no connecti
 - **Two rows with the same candidate reference:** stop and ask.
 - **A required interviewer has no free-time rows:** propose nothing, draft no confirmation, and ask the coordinator; availability requests are not drafted either, because no time can be offered.
 - **Asked to put one candidate first, give a candidate a better time, or choose who gets a contested time for any reason about the candidate:** decline. The order follows the rule in step 7; the coordinator may move any time by hand after reading the sheet. List the request under Declined.
-- **Asked to screen, score, rank or compare candidates, read a CV or interview notes, or say who should go forward or be hired:** decline. People decide; this capability schedules.
+- **Asked to screen, score, rank or compare candidates, read a CV or interview notes, or say who should go forward or be hired:** decline. People decide; this workflow template schedules.
 - **A setting, note or draft touches a protected subject,** such as a request to ask about current pay, plans for leave or visa status: remove it, put nothing in its place, and flag it for the people lead.
 - **A reply gives a reason for its times:** use the times only; never repeat, record or ask about the reason.
 - **A reply and the candidate list disagree on the time zone:** treat the time zone as not given and ask the coordinator.

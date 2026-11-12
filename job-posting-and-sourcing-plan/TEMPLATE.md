@@ -1,6 +1,6 @@
 # Job posting and sourcing plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it once a role is approved and its description agreed, before anything is po
 
 Do not use it:
 
-- to write the posting or the description itself. Agree the description first; the Job description capability prepares one;
+- to write the posting or the description itself. Agree the description first; the Job description workflow template prepares one;
 - to read, sort, score or compare applications, CVs or profiles, or to draw up a list of named people to approach. People do that, from the channels the plan sets up;
 - to write the messages sent to potential candidates or to referrers;
 - to decide what an advertisement must contain by law, or where a role must be advertised. That belongs to the people lead and the company's advisers;

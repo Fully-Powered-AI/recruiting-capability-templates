@@ -1,6 +1,6 @@
 # Interview plan and scorecard
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -15,8 +15,8 @@ Do not use it:
 - to read, summarise or compare CVs, applications, interview notes or completed scorecards;
 - to suggest who to interview, who moves forward or who to hire. People make those calls from the evidence the plan collects;
 - to write reference questions, background checks, an offer or the terms of anyone's employment;
-- to decide what the law allows an interviewer to ask. That list belongs to the people lead and the company's advisers; this capability applies the list it is given;
-- to write or change the job description. Agree the description first; the Job description capability prepares one.
+- to decide what the law allows an interviewer to ask. That list belongs to the people lead and the company's advisers; this workflow template applies the list it is given;
+- to write or change the job description. Agree the description first; the Job description workflow template prepares one.
 
 ## Roles
 

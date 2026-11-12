@@ -1,6 +1,6 @@
 # Reference check question plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Do not use it:
 - to contact anyone the candidate did not name, or to look up the candidate or a referee online;
 - to summarise, weigh or rate the answers after the calls, or to say whether to make an offer. The hiring manager reads the note sheets;
 - for background, criminal record, credit, qualification or right-to-work checks. They follow their own rules and processes;
-- to settle what may lawfully be asked of a referee where the company hires. The people lead and the company's advisers own that list; this capability applies the list it is given;
+- to settle what may lawfully be asked of a referee where the company hires. The people lead and the company's advisers own that list; this workflow template applies the list it is given;
 - to plan the interviews (Interview plan and scorecard) or to define the role, which the approved criteria come in already defining.
 
 ## Roles
@@ -327,5 +327,5 @@ what the law allows a referee to be asked.
 ## Version notes
 
 - 0.1.0, 10 November 2026. Written by Fully Powered AI from its own published map of recruiting work. Not yet tested in a client environment.
-- 0.1.0, edited 10 November 2026 after the first trial run on the invented example, which was not repeated: step 11 and the instruction block now say to name the defaults used under Sources; step 6 and the block say "fewest eligible referees"; the block states the stop when no open point is left after screening and the fallback to the short list when the topics list is missing; the mention of a separate role-definition capability was removed. The example's wording was also tidied (a main question that no longer assumes who kept the schedule, and "or shared" removed).
+- 0.1.0, edited 10 November 2026 after the first trial run on the invented example, which was not repeated: step 11 and the instruction block now say to name the defaults used under Sources; step 6 and the block say "fewest eligible referees"; the block states the stop when no open point is left after screening and the fallback to the short list when the topics list is missing; the mention of a separate role-definition workflow template was removed. The example's wording was also tidied (a main question that no longer assumes who kept the schedule, and "or shared" removed).
 - 0.1.0, edited 10 November 2026 after independent review: the screening step says the Removed line is the flag for a topic never raised; the order of the groups of open questions and the source of the recruiter role in the opening are stated; a note on the "was it typical" follow-up and on "the candidate" in Listen for; a What to customize line on wording for a referee who was part of the event; the instruction block now carries the one-candidate check and "period not stated". Small edits; not run again.

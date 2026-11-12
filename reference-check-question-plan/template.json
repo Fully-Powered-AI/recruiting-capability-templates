@@ -1,10 +1,10 @@
 {
   "id": "reference-check-question-plan",
   "name": "Reference check question plan",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "After the interviews, the recruiter gets short reference calls aimed only at what the panel still could not establish, put to the referees the candidate named and agreed to, with a note sheet for each call that keeps the referee's own words. It gives no view on the candidate.",
-  "directory": "https://fullypowered.ai/capabilities/reference-check-question-plan/",
+  "directory": "https://fullypowered.ai/workflow templates/reference-check-question-plan/",
   "primary_function": "functions/recruiting-and-hiring",
   "functions": [
     "functions/recruiting-and-hiring"

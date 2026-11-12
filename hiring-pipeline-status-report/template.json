@@ -1,10 +1,10 @@
 {
   "id": "hiring-pipeline-status-report",
   "name": "Hiring pipeline status report",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Each week your people lead or founder sees every open role on one page: applications at each stage, days open against the target, roles running late, pass-through between stages, which sources lead to interviews, and every blocker with its owner. It counts; it never assesses a candidate.",
-  "directory": "https://fullypowered.ai/capabilities/hiring-pipeline-status-report/",
+  "directory": "https://fullypowered.ai/workflow templates/hiring-pipeline-status-report/",
   "primary_function": "functions/recruiting-and-hiring",
   "functions": [
     "functions/recruiting-and-hiring",

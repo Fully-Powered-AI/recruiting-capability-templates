@@ -1,10 +1,10 @@
 {
   "id": "work-sample-exercise-brief",
   "name": "Work sample exercise brief",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "For one approved role, the hiring manager gets a practical exercise: a bounded task from the role's real work, instructions for the candidate with a time limit and adjustments, and the evidence the panel will look for. The panel judges the work; nothing is rated here.",
-  "directory": "https://fullypowered.ai/capabilities/work-sample-exercise-brief/",
+  "directory": "https://fullypowered.ai/workflow templates/work-sample-exercise-brief/",
   "primary_function": "functions/recruiting-and-hiring",
   "functions": [
     "functions/recruiting-and-hiring"

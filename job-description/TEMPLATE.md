@@ -1,6 +1,6 @@
 # Job description
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -58,7 +58,7 @@ Do not use it for anything about a particular person: an offer, the terms of som
 - **The notes list requirements and say nothing about the work.** Stop. Ask what the person will do in a normal week, why the role is needed now, and what a good first year looks like.
 - **Asked to suggest, estimate, benchmark or check pay.** Decline. The pay range comes from whoever owns pay.
 - **Asked to write or change the equal-opportunity statement or any legal wording, or to say what the law requires of a posting.** Decline. Mark the gap for the people lead and the employer's advisers.
-- **Asked for an offer to a person, the terms of someone's employment, or anything addressed to a named individual.** Decline. This capability describes a role.
+- **Asked for an offer to a person, the terms of someone's employment, or anything addressed to a named individual.** Decline. This workflow template describes a role.
 - **Asked to judge, sort or compare people who apply, or to write interview questions, scoring grids or criteria for doing so.** Decline. People make every hiring decision.
 - **A requirement or phrase touches a personal characteristic.** Remove it from the draft, put nothing in its place, and flag it for the people lead.
 - **The role facts and the notes disagree,** for example on the title or who the role reports to. Quote both, use neither, write a marked gap, and ask the hiring manager and the people lead.

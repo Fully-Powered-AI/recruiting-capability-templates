@@ -1,6 +1,6 @@
 # Candidate outreach drafting
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it once a role is approved and the recruiter has a list of people they have 
 
 Do not use it:
 
-- to find people, build a list, look up addresses or profiles, or check what someone has published. The recruiter does that before this work starts; the Job posting and sourcing plan capability sets out where to look;
+- to find people, build a list, look up addresses or profiles, or check what someone has published. The recruiter does that before this work starts; the Job posting and sourcing plan workflow template sets out where to look;
 - to decide who is worth approaching, to sort or score the list, or to judge anyone against the role. People make those decisions;
 - to answer a person who has replied. The recruiter writes that answer;
 - to write the job description, an offer or any document about employment terms;

@@ -1,6 +1,6 @@
 # Interview process review after a hiring round
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it once a round has closed and the feedback is in, before the interview plan
 
 Do not use it:
 
-- before a round, to build the interview plan and scorecard. The Interview plan and scorecard capability prepares that structure;
+- before a round, to build the interview plan and scorecard. The Interview plan and scorecard workflow template prepares that structure;
 - to report on how many people sit at each stage of the pipeline. The Hiring pipeline status report covers that;
 - to judge any candidate, to say who should have been chosen, or to reopen an outcome of the round. People decide, and this review looks only at the process;
 - to compare or rate interviewers, or to report on any personal characteristic of a candidate or interviewer;
